@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/blue-collar-love-story/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Blue Collar Love Story](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-collar-love-story/) |
+| **Get License** | [Get License For Blue Collar Love Story](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blue-collar-love-story/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2012)
 
 ---
 
